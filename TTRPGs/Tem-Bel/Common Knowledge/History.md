@@ -3,9 +3,6 @@
 ## Major Events
 
 
-### Grand Exodus
-
-
 ### Pre-ascension 
 
 
@@ -16,10 +13,6 @@
 
 
 ### United Federation
-
-
-### Colonial Administration 
-
 
 
 

@@ -33,7 +33,7 @@ The circles of the moon do not adhere to one persistent deity. Most often one wi
 Most common deities are:
 - [[Ulthra]]
 - [[Wodenia]]
-- [[Althea]]
+- [[Altheans]]
 
 
 ## Follower restrictions
