@@ -88,91 +88,91 @@ Use the `šumma` fix around the cluster.
 #### Animals
 
 Animal -> 
-Cat -> maonen
-Dog -> kalaben
+Cat -> maonen  
+Dog -> kalaben  
 
 #### People
 
-Person -> metabten
-Tool -> damašen
-Food -> teqelen
-Body -> maštaren
-Language -> muqbeten
+Person -> metabten  
+Tool -> damašen  
+Food -> teqelen  
+Body -> maštaren  
+Language -> muqbeten  
 
 #### Nature
 
-Nature -> maqteben
-Rock -> lebtaben
-Tree -> wuklabten
-Place -> rutlemnen
-Thing -> daštratren
-Time ->  noqaqlen
-Mountain -> muhabden
-Sky -> 
-God -> šekhamen
-Fire -> džugafkmen
-Snow -> džagufkmen
-Ice -> gahenden
-Forest -> kandaren
+Nature -> maqteben  
+Rock -> lebtaben  
+Tree -> wuklabten  
+Place -> rutlemnen  
+Thing -> daštratren  
+Time ->  noqaqlen  
+Mountain -> muhabden  
+Sky ->   
+God -> šekhamen  
+Fire -> džugafkmen  
+Snow -> džagufkmen  
+Ice -> gahenden  
+Forest -> kandaren  
 
 #### Buildings
 
-House ->
+House ->  
 
 ### Verbs
 
-To see -> 
-To be -> 
-To do -> 
-To go -> 
-To eat ->
-To speak -> 
-To feel -> 
-To create ->
-To love -> 
-To know -> 
-To kill -> 
+To see ->  
+To be ->  
+To do ->  
+To go ->  
+To eat -> 
+To speak ->  
+To feel ->  
+To create -> 
+To love ->  
+To know ->  
+To kill ->  
 
 
 ### Adjectives
 
-Tall/high 
-Big -> 
-Small ->
-Good ->
-Bad -> 
-Beautiful -> 
-Ugly ->
-Hot -> 
-Cold ->
-New ->
-Old -> 
+Tall/high ->  
+Big ->  
+Small ->  
+Good ->  
+Bad ->  
+Beautiful ->   
+Ugly ->  
+Hot ->  
+Cold -> 
+New ->  
+Old ->  
 
 
 ### Helpers
 
-For ->
-Towards/To ->
-In/Into ->
-Through ->
-And ->
-Or ->
-Of ->
-With ->
-Up ->
-Down ->
-From ->  
+For ->  
+Towards/To ->  
+In/Into ->  
+Through ->  
+And ->  
+Or ->  
+Of ->  
+With ->  
+Up ->  
+Down ->  
+From ->    
 
 
 
 ### Math
 
-Equals -> 
-Plus ->
-Minus ->
-Multiply ->
-Divide ->
-Power ->
+Equals ->   
+Plus ->   
+Minus ->  
+Multiply ->  
+Divide ->  
+Power ->  
 
 
 
@@ -180,37 +180,37 @@ Power ->
 
 
 
-Zero: 
-One: 
-Two: 
-Three: 
-Four: 
-Five: 
-Six:  
-Seven: 
-Eight: 
-Nine:  
-Ten:  
-Eleven:  
-Twelve:  
-Thirteen: 
-Fourteen: 
-Fifteen: 
-Sixteen: 
-Seventeen: 
-Eighteen: 
-Nineteen: 
-Twenty: 
-Twenty one: 
-Twenty two: 
-Twenty three: 
-Twenty four: 
-Sixty: Kuri
+Zero:  
+One:  
+Two:  
+Three:  
+Four:  
+Five:  
+Six:   
+Seven:  
+Eight:  
+Nine:   
+Ten:   
+Eleven:   
+Twelve:   
+Thirteen:  
+Fourteen:  
+Fifteen:  
+Sixteen:  
+Seventeen:  
+Eighteen:  
+Nineteen:  
+Twenty:  
+Twenty one:  
+Twenty two:  
+Twenty three:  
+Twenty four:  
+Sixty:   
 One hundred: 
-Two hundred: 
-Six hundred: 
-One thousand: 
-Three thousand six hundred:
+Two hundred:  
+Six hundred:  
+One thousand:  
+Three thousand six hundred:  
 
 
 
