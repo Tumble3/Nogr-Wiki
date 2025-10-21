@@ -80,6 +80,23 @@ Relative Structures are indicated by a hiss with a ts click at the end of the re
 Ecclesiastical Litan is from top to bottom.
 WTP Litan is from right to left. 
 
+### Dialects
+
+#### Ecclesiastical Litan
+
+
+#### WTP Litan
+
+WTP Litan loses some consonants: 
+je becomes e
+⟨ǀǀ⟩ is omitted entirely from noun endings (only in spoken language)
+
+WTP Litan is written right to left
+
+Letters: ts, tl, tʃ have been split up and are now represented by their individual letters
+
+
+
 ### Declination
 
 There is no declination, verbs are as is. 
@@ -105,6 +122,7 @@ Priest -> ʃa:tsekla:mai: ⟨ǀǀ⟩
 High Priest -> ʃa:tsekla:sai:⟨ǀǀ⟩
 King -> nai: ⟨ǀǀ⟩
 Both -> tlaplaki: ⟨ǀǀ⟩
+Parents -> mani: ⟨ǀǀ⟩
 
 #### Nature
 
@@ -134,6 +152,18 @@ Rain -> Seltsane: ⟨ǀǀ⟩
 Snow -> 
 Ice ->
 Forest ->
+
+#### Food
+
+
+Bread -> toitsa: ⟨ǀǀ⟩
+Apple -> mentje: ⟨ǀǀ⟩
+Soup -> jantsaku: ⟨ǀǀ⟩
+
+#### Things
+
+Book -> senklatje: ⟨ǀǀ⟩
+Bed -> kometsla: ⟨ǀǀ⟩
 
 #### Buildings
 
@@ -175,7 +205,8 @@ Honour -> keptnewa: ⟨ǀǀ⟩
 Mood -> plemntwene: ⟨ǀǀ⟩
 Day -> tlaktatne: ⟨ǀǀ⟩
 Lunch -> tjanaktanle: ⟨ǀǀ⟩
-
+Dinner -> tjantsaktanle: ⟨ǀǀ⟩
+Home -> sjoktla: ⟨ǀǀ⟩
 
 ### Verbs
 
@@ -222,6 +253,9 @@ To dress -> wa:mentso:le:
 To ride -> wa:lastla: 
 To like -> wa:nutslu:
 To rain -> wa:seltsane:
+To play -> wa:mulenku:
+To read -> wa:lakta:
+To cook -> wa:?psukta:
 
 
 ### Adjectives
@@ -233,8 +267,8 @@ Good ->
 Bad -> 
 Beautiful -> 
 Ugly ->
-Hot -> 
-Cold ->
+Hot -> kaltsank
+Cold -> kaltsjenk
 New ->
 Old -> 
 
