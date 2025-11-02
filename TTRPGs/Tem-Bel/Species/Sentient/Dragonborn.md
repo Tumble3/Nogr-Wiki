@@ -30,6 +30,30 @@ At both the beginning and the end of the harvest season, a community regardless 
 Due to the largely decentralised religious structure of the [[The Great Dragons|Great Dragon Mythology]] each community has slightly differing days for their religious celebrations. While many share the same days or causes for celebration there is generally speaking no community who aligns one to one with another on when to celebrate what. 
 
 
+### Rite of passage
+
+In order to show their peers that they are ready to become a full adult a Dragonborn cub will have to go through several ritualistic steps: 
+
+#### Show of Wisdom
+
+Once the Cub decides it is time for them, they will have to come to their community forum in order to be queried by anyone present in any matter. There is no standardised format for this test, instead the Cub will have to prepare for the unique challenges and issues present at the time in their region. Since each community has a strong sense of belonging and individuality a standardised test would be impossible to conceptualise. Since there is no exact telling what the Cub will be questioned on, they will have to prove their ability to improvise as well as their general knowledge on matters relevant in the eyes of the community.  
+In villages such a questioning will involve everyone and will be treated more like a celebratory day, were everyone will gather and celebrate the Cub's first step into adulthood.  
+In cities this works a little different. Since cities are large centres of population children are usually grouped together into batches of 3, 5 or 7 individuals, depending on the amount willing to start their trial. Instead of the whole city coming to their questioning, they will instead enter each of the local temples and be presented with a individual singular question. Depending on the size of the city and amount of temples, some communities decide whether having the cubs visit multiple temples to the same deity is necessary or if one temple per deity suffices. 
+
+#### Show of skill
+
+Depending on the Cub's personal preferences, in the second stage, the Cub will have to show off their abilities for creation. They will choose a project which will show off their prowess in their interests. Some cubs may choose to dedicate their efforts into showing off their expertise at carving stone, wood or metal, while others may create a massive painting and another one may compose their musical magnum opus. But the Cub will not be limited to expressing themselves through just one medium, if the Cub decides they want to create a multi faceted representation of their skills, involving multiple arts and crafts, then they are welcome to do so.  
+In the end it matters not how someone created but that someone created, valuing their heart and soul put into it instead of the end result on its own. 
+
+#### Show of strength
+
+In order to show their ability to provide for their eventual offspring and the other members of their community the Cub will have to show off their physical strength and health. The Cub will have to pick up and carry the community's Adulting Stone and make one full circle around the village's outer borders. In cities the Cub would only need to make a tour around their borough instead of the whole city. 
+
+#### Celebration of Adulthood
+
+Once all the trials are completed the Cub will be welcomed into the community as a full adult. As a full adult it is now possible for them to choose a partner and produce offspring. They will also be able to start their own enterprise or seek full employment in someone else's. They will now be a full part of all the privileges and requirements expected and provided to them by the community. 
+
+
 
 ## Language
 
@@ -48,6 +72,12 @@ Dragonborn follow the Turian religion centred around [[The Great Dragons]].
 
 ## Physiology
 
+The average Dragonborn comes out to about six feet in height and an impressively muscular physique. To Dragonborn the growth of muscle comes as natural as drawing breath. Even an untrained Dragonborn would be able to lift a hundred pounds without issue and even carry it for good while. This biological trait allows them to train themselves very quickly in the event that physical strength is required. What takes the average human decades to achieve they can achieve in a year, depending on circumstances even less. This may be due to the immense bone density and incredibly resilient immune system, found in the average Dragonborn. Furthermore their organs are able to produce most vitamins and proteins necessary for them to survive. While without supplementation through diet a Dragonborn would not be considered healthy this abundance of resources allows their bodies to quickly change according to current demands. 
+
+### Reproductive Practises
+
+Dragonborn do not reproduce through physical interaction. Instead if a suitable combination of partners finds themselves they can decide to enable a reproductive mode. In this reproductive mode a psychological connection will be formed with the other parties, through which everyone will construct offspring inside their womb according to the designs transmitted to each other. This mode is usually only possible to reach through extensive interaction between all involved since it requires a deep spiritual connection between each other.  
+Once offspring designs have been exchanged each person will incubate the offspring for about four months before the new born is released. 
 
 ## Cuisine
 
@@ -81,4 +111,18 @@ Hemo
 Hano
 Hajno
 Hanjo
+Ignatijo
+Inogjo
+Ilocio
+Lemburgo
+Laudijo
+Manulo
+Manjo
+Nunijo
+Ogello
+Pezentijo
+Regijo
+Sanumjo
+Ullijo
+Urbinjo
 
