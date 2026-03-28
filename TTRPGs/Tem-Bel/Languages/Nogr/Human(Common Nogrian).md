@@ -1,7 +1,6 @@
+# Table of Contents 
 
-
-```table-of-contents
-```
+[toc]
 
 
 ## Quick Facts
