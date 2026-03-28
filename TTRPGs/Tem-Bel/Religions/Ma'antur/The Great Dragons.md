@@ -1,10 +1,8 @@
+# Table of Contents 
+
+[toc]
 
 
-
-
-Table of Contents
-```table-of-contents
-```
 
 ## Quick Facts
 
@@ -12,6 +10,13 @@ Table of Contents
 
 ## Structure
 
+Even though the People of [Ma'antur](../../Continents/Ma'antur.md) frequently receive draconic visitors, no dragon is allowed to answer the question of wether it was one or two great dragons, that created the world they inhabit. 
+
+
+### Monolism
+
+
+### Dualism
 
 
 ## Values

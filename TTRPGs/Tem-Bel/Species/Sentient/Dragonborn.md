@@ -59,16 +59,16 @@ Once all the trials are completed the Cub will be welcomed into the community as
 
 The Turian language has two major varieties: 
 1. Standard Turian (colloquially called "City Turian")
-2. Turian Dialect (colloquially called "Viallge Turian")
+2. Turian Dialect (colloquially called "Village Turian")
 
-Standard Turian is the Turian taught in Temple schools and used in official politics, not because it is superior in any way to the Turian dialects but because it is standardised and thus easier for foreigners to learn and makes communication between distant communites easier.  
+Standard Turian is the Turian taught in Temple schools and used in official politics, not because it is superior in any way to the Turian dialects but because it is standardised and thus easier for foreigners to learn and makes communication between distant communites easier. It is also colloquially known as "Kobold" since it is the main language spoken among the Kobold circles.    
 
 Turian Dialect is the umbrella term for any of the countless Turian Dialects found among Turian communities. Due to the strong sense of community shared between all Turians, villages, towns and even large cities will have their own dialect. Depending on frequency of exchange with different communities, such dialects may or may not deviate more or less strongly from the Standard Turian or their neighbouring deviations. Generally it can be surmised that a Turian from one corner of the region will have a hard time understanding another Turian coming from the other corner. 
 
 
 ## Religion
 
-Dragonborn follow the Turian religion centred around [[The Great Dragons]]. 
+Dragonborn follow the Turian religion centred around [The Great Dragons](../../Religions/Ma'antur/The%20Great%20Dragons.md). 
 
 ## Physiology
 
@@ -80,6 +80,8 @@ Dragonborn do not reproduce through physical interaction. Instead if a suitable 
 Once offspring designs have been exchanged each person will incubate the offspring for about four months before the new born is released. 
 
 ## Cuisine
+
+One might imagine the Turian cuisine to be bland due to the relative scarcity of plant and wildlife in the long summer months, instead Turian cuisine thrives on low ingredient meals. Turian chefs are experts in making flavourful meals without the availability of spices or herbs. Instead they employ different techniques allowing for even the most sun bleached weed to maximize its flavour profile. This makes Turian cooking styles particularly popular among the lower social strata of any country lucky enough to have extened cultural exchange with them. 
 
 
 ## Music
