@@ -40,7 +40,7 @@ call ”Júẑòn mánò nígó” or ”Peace of the Twelve” Every member of 
 
 ## Language
 
-The Nagon language is a tonally focused language containing 
+The Nagon language is a tonally focused language containing 5 distinct vowels with 4 individual variations and 16 consonants. Nagon is a syllabic language utilizing symbols denoting a combination of any consonant with any vowel. Since names are culturally very important to the Nagon an astute observer can pick out any Nagon's birth name just by extracting the words with uneven amounts of syllables. This practise is possible due to the Nagon birth names being required to contain either 3, 5 or 7 syllables which no other class of word is allowed to have. More information can be found in [the official Nagon language entry.](../../Languages/Joshu/Nagon.md)
 
 ## Religion
 
@@ -49,6 +49,22 @@ The Nagon language is a tonally focused language containing
 
 
 ## Cuisine
+
+### Classic Nagon Cuisine
+
+#### Máŝúnè
+
+One of the few islands that are not only large enough to support extensive permanent farming but also have the soil quality for farmable crops. This has caused early tribespeople to develop a stronger focus on utilising wheats and vegetables in their diet. Many of the baked goods that circulate around the archipelago have their origins stem from the artisan bakers of Másúnè and have since been further developed by other cooks and bakers with creations often times still possessing traceable similarities to their Másúnian origins. 
+
+#### Šōnādánádémùnèlá
+
+The island which is widely known for its excellent fish is often regarded as a pioneer in all things fish. From the use of fish in food or for ornamentation and jewlery. This saw Šōnādánádémùnèlá develop a large variety of almost entirely fish based foods. Due to the rather poor soil, fruits and vegetables were basically non existant in the earlier centuries leading this island's tribe to rely exclusively on fish and the rare plant dredged up from the seas. 
+
+#### Dúẑòlàné
+
+The capital city of the Archipelago has always been a relatively cosmopolitan place. Nagon from all over the Archipelago make their home there either temporarily or permanently at some point in their lives. This means that even before the wider world had opened to them, the local cuisine was already a bright mixture of everything the archipelago had to offer. Still even in the capital most food then was sea based, with a heavy emphasis of different fruits on the side. 
+
+### Modern Nagon Cuisine
 
 
 ## Music
