@@ -1,7 +1,5 @@
 
-```table-of-contents
-```
-
+[toc]
 
 ## My day
 
