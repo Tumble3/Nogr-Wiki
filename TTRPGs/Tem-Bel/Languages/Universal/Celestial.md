@@ -59,8 +59,9 @@ There is a marker for names of places or things.
 
 ### Plural
 
-Old words have a medium low vowel as a plural indicator.  
-New words have their own seperate plural form.  
+Old words have their own seperate plural form. 
+New words  have a medium low vowel as a plural indicator at the end.  
+    - Some new words have only a plural form. 
 
 
 ### Increasing Magnitude
